@@ -1,4 +1,4 @@
-# SoureResearch
+# SourceResearch
 
 ## Objective 
 Establish and scale a repository of data sources and information about the data they provide. 
